@@ -16,7 +16,9 @@ Prequiste: Make sure that node and npm is installed on the system.
    npm start
    ```
 Image:
-![Uploading image.png…]()
+
+<img width="1776" alt="image" src="https://github.com/injusticescorpio/Shopping-app/assets/63117348/d738d7c6-05e1-4935-b604-1045753cab61">
+
 
 
 
